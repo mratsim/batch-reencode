@@ -1,4 +1,4 @@
-# compress_videos.py
+# batch_reencode.py
 # Copyright (c) 2023 Mamy André-Ratsimbazafy
 # Licensed and distributed under either of
 #   * MIT license (http://opensource.org/licenses/MIT).
